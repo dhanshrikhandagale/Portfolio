@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="portfolio.css">
+    <title>Your Name - Portfolio</title>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <h1>DHANSHRI KHANDAGALE</h1>
+            <p>Web Developer</p>
+        </div>
+    </header>
+
+    <section id="about" class="container">
+        <h2>About Me</h2>
+        <p>
+            Welcome to my portfolio! I am a passionate web developer with a strong background in HTML, CSS, and JavaScript.
+            I enjoy creating interactive and responsive websites that provide a great user experience.
+        </p>
+    </section>
+
+    <section id="skills" class="container">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>Core Java</li>
+            <li>OOPs Concepts</li>
+            <li>SQL</li>
+            <li>Responsive Web Design</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section id="projects" class="container">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1::Academic Workload and Timetable Management System</h3>
+            <p>Timetable management system is useful for the time slot and subjects are alloted for specific teacher and manage their workload. </p>
+        </div>
+        <div class="project">
+            <h3>Project 2::Agriculture Crop Recommendation based on Productivity and Season</h3>
+            <p>Traditional crop selection methods can be time-consuming and rely heavily on experience. IoT-based
+                recommendations can offer data-driven insights to help farmers choose the right crops for their specific
+                  conditions, leading to higher yields and profits.</p>
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
+
+    <footer>
+        <p>Contact me at: dhanshrikhandagale7@gmail.com</p>
+        <p>Mobile No : 7249674690</p>
+    </footer>
+</body>
+
+</html>
